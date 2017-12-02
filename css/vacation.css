@@ -1,0 +1,140 @@
+a.menu-item:link 
+{
+  color: #9D9D9D;
+  background-color: transparent;
+} 
+
+a.menu-item:active 
+{
+  color: #9D9D9D;
+  background-color: transparent;
+}
+
+a.menu-item:visited 
+{
+  color: #9D9D9D;
+  background-color: transparent;
+} 
+
+a.menu-item:hover 
+{
+  color: #fff;
+  background-color: transparent;
+} 
+
+body
+{
+	background: #4a4a4a;
+	color: #fff;
+	margin: 0px;
+}
+
+.header ul
+{
+	display: flex;
+	padding-left: 138px;
+}
+
+.header li
+{
+	list-style: none;
+}
+
+.header strong
+{
+	font-size: 42px;
+	padding-left: 200px;
+}
+
+.logo
+{
+	border-radius: 50%;
+}
+
+.header span
+{
+	color: #969696;
+	padding-left: 325px;
+	font-size: 24px;
+}
+
+.menu
+{
+	display: flex;
+	border: 1px solid #000;
+}
+
+.menu div
+{
+	padding: 12px;
+	background: #2D2D2D;
+	width:50%
+}
+
+.left
+{
+	padding-left: 124px;
+}
+
+.right
+{
+	padding-left: 416px;
+}
+
+.menu td
+{
+	padding-right: 39px;
+}
+
+.menu-item
+{
+	text-decoration: none;
+}
+
+.social
+{
+	border-radius: 6px;
+}
+
+.header table
+{
+	 padding-left: 377px;
+}
+
+.jumbotron 
+{
+  background-image: url('../images/jumbotron-vacation.jpg');
+  height: 46em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 40px;
+}
+
+.jumbotron div
+{
+	background: #587C93;
+	opacity: 0.8;
+	width: 31em;
+	height: 43em;
+	border-radius: 30px;
+}
+
+.button-a
+{
+	text-decoration: none;
+}
+
+.button
+{
+	color: red;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.jumbotron table
+{
+	text-shadow: 3px 2px 2px black;
+	font-family: serif;
+	font-size: 18px;
+}
+
